@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512786128748",
+    "firebase_url": "https://parkmecorrect.firebaseio.com",
+    "project_id": "parkmecorrect",
+    "storage_bucket": "parkmecorrect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512786128748:android:c2dc798894e49c46",
+        "android_client_info": {
+          "package_name": "com.parkmecorrect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512786128748-hhlavihkud8inrna8285pqm7qp4pj2ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzK3397MmzBnA7i1n9kF4cr_dpbnIC9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

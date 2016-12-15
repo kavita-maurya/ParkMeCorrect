@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">ParkMeCorrect</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="userId">UserId:</string>
+    <string name="parkedv">Parked Vehicles</string>
+    <string name="registration">Registration</string>
+    <string name="history">History</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">Wrong Credentials</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_shared_preference">loginSharedPreference</string>
+    <string name="profile_shared_preference">profileSharedPreference</string>
+    <string name="errorMessage">Something went wrong. Please try again.</string>
+    <string name="carNotRegistered">This car is not registered.</string>
+    <string name="timeUpdated">Time Updated</string>
+    <string name="checkin">Checkin</string>
+    <string name="checkout">Checkout</string>
+    <string name="search">Search</string>
+    <string name="enter_car_number">Enter Car Number:</string>
+    <string name="enter_mobile_no">Enter Mobile No:</string>
+    <string name="enter_guest_details">Enter Guest Details</string>
+    <string name="checkin_checkout">Checkin/Checkout</string>
+    <string name="guest_checkin">Guest Checkin</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="name">Name</string>
+    <string name="car_number">Car Number:</string>
+    <string name="mobile_number">Mobile Number:</string>
+    <string name="email_id">Email Id:</string>
+    <string name="sticker_number">Sticker Number:</string>
+    <string name="save">SAVE</string>
+    <string name="error_invalid_mob">Please enter valid mobile number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_old_password">Enter Old Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="update">Update</string>
+    <string name="send_night_parking_alert">Send Night Parking Alert</string>
+    <string name="wrong_parking_alert">Send Wrong Parking Alert</string>
+    <string name="new_number">New Number</string>
+    <string name="error_new_password">New Password can\'t be empty</string>
+    <string name="error_old_password">Old Password can\'t be empty</string>
+    <string name="wrong_password">Wrong Password</string>
+    <string name="error_invalid_mobile">Invalid Mobile Number</string>
+    <string name="registration_id">Registration Id:</string>
+    <string name="change_password">Change Password  </string>
+    <string name="new_user_register_here">New User Register Here</string>
+    <string name="enter_password">Enter Password:</string>
+    <string name="confirm_password">Confirm Password:</string>
+    <string name="how_would_you_like_to_get_notifications">Do you want email alerts?</string>
+    <string name="availability">User Id not available</string>
+    <string name="not_matching_passwords">Passwords don\'t match</string>
+    <string name="incorrect_email">Invalid Email</string>
+    <string name="NetworkErr">Could not connect to Network</string>
+    <string name="alerts">Alerts</string>
+    <string name="view_profile">View Profile</string>
+    <string name="send_alert">Send Alert</string>
+    <string name="change_language">Change Language</string>
+    <string name="selected_hindi">You have selected Hindi</string>
+    <string name="selected_English">You have selected English</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_password">Update Password</string>
+    <string name="update_mobile">Update Mobile Number</string>
+    <string name="carNumAvailabilty">This Car Number is already registered</string>
+    <string name="regSuccess">Registration successful</string>
+    <string name="alertSend">Alert Sent</string>
+    <string name="car_locked_alert">Car Locked Alert</string>
+    <string name="token_shared_pref">tokenSharedPreference</string>
+    <string name="refresh">Refresh</string>
+    <string name="parking_history">Parking History</string>
+    <string name="select_date_to_view_parking_details">Select date to view parking details</string>
+    <string-array name="alert_type">
+        <item>Wrong Parking</item>
+        <item>Night Parking</item>
+        <item>Locked Alert</item>
+    </string-array>
+    <string-array name="filter_type">
+        <item>All Alerts</item>
+        <item>Car</item>
+        <item>Alert</item>
+    </string-array>
+    <string-array name="filter_type_car">
+        <item>All Vehicles</item>
+        <item>Registered</item>
+        <item>Guest</item>
+    </string-array>
+</resources>

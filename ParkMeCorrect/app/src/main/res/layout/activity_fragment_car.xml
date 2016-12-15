@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="30dp"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/spinner_background"
+                android:gravity="center"
+                android:id="@+id/FilterType">
+
+                <Spinner
+                    android:id="@+id/spinnerFilterType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:entries="@array/filter_type_car">
+                </Spinner>
+            </LinearLayout>
+
+
+</LinearLayout>
+

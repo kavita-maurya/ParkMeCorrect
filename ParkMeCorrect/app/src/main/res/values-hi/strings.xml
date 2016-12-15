@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ParkMeCorrect</string>
+    <string name="title_activity_login">साइन इन करें</string>
+
+    <!-- Strings related to login -->
+    <string name="userId">यूज़र आईडी:</string>
+    <string name="parkedv">पार्क किए गए वाहन</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="action_sign_in">साइन इन या रजिस्टर</string>
+    <string name="error_invalid_password">यह पासवर्ड बहुत छोटा है</string>
+    <string name="error_incorrect_password">यह पासवर्ड गलत है</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_shared_preference">loginSharedPreference</string>
+    <string name="profile_shared_preference">profileSharedPreference</string>
+    <string name="timeUpdated">समय अपडेट</string>
+    <string name="checkin">चेक-इन</string>
+    <string name="checkout">चेक-आउट</string>
+    <string name="search">खोज करें</string>
+    <string name="enter_mobile_no">मोबाइल नंबर दर्ज करें:</string>
+    <string name="enter_guest_details">अतिथि विवरण दर्ज करें:</string>
+    <string name="checkin_checkout">चेक-इन/चेक-आउट</string>
+    <string name="guest_checkin">अतिथि चेक-इन</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="action_logout">लॉग आउट</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="name">नाम</string>
+    <string name="mobile_number">मोबाइल नंबर:</string>
+    <string name="email_id">ई-मेल:</string>
+    <string name="sticker_number">स्टीकर संख्या:</string>
+    <string name="save">सेव</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="enter_old_password">पुराने पासवर्ड दर्ज करें</string>
+    <string name="enter_new_password">नया पासवर्ड दर्ज करें</string>
+    <string name="update">अपडेट</string>
+    <string name="wrong_parking_alert">गलत पार्किंग चेतावनी भेजें</string>
+    <string name="new_number">नया नंबर</string>
+    <string name="error_new_password">नया पासवर्ड रिक्त नहीं हो सकता</string>
+    <string name="error_old_password">पुराना पासवर्ड रिक्त नहीं हो सकता</string>
+    <string name="wrong_password">गलत पासवर्ड</string>
+    <string name="error_invalid_mobile">अमान्य मोबाइल नंबर</string>
+    <string name="registration_id">पंजीयन आईडी:</string>
+    <string name="change_password">पासवर्ड बदलें</string>
+    <string name="new_user_register_here">नई उपयोगकर्ता यहाँ रजिस्टर करें</string>
+    <string name="enter_password">पासवर्ड दर्ज करें</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि कीजिये:</string>
+    <string name="availability">यूजर आईडी उपलब्ध नहीं</string>
+    <string name="not_matching_passwords">पासवर्ड मेल नहीं है</string>
+    <string name="incorrect_email">अवैध ईमेल</string>
+    <string name="NetworkErr">नेटवर्क से कनेक्ट नहीं कर सकता</string>
+    <string name="action_sign_in_short">साइन इन करें</string>
+    <string name="carNotRegistered">इस कार में पंजीकृत नहीं है</string>
+    <string name="car_number">गाड़ी संख्या:</string>
+    <string name="enter_car_number">गाड़ी संख्या दर्ज करें:</string>
+    <string name="errorMessage">तकनीकी समस्या। कृपया पुन: प्रयास करें।</string>
+    <string name="error_field_required">यह फ़ील्ड आवश्यक है</string>
+    <string name="error_invalid_email">यह ईमेल अमान्य है</string>
+    <string name="error_invalid_mob">वैध मोबाइल नंबर डालें</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="history">इतिहास</string>
+    <string name="how_would_you_like_to_get_notifications">आप ईमेल अलर्ट करना चाहते हैं?</string>
+    <string name="prompt_email">यूज़र आईडी:</string>
+    <string name="registration">पंजीकरण</string>
+    <string name="selected_hindi">आपने हिंदी का चयन किया है</string>
+    <string name="send_night_parking_alert">नाइट पार्किंग चेतावनी भेजें</string>
+    <string name="alerts">अलर्ट</string>
+    <string name="send_alert">चेतावनी भेजें</string>
+    <string name="view_profile">प्रोफाइल देखें</string>
+    <string name="cancel">कैंसिल</string>
+    <string name="update_password">अपडेट पासवर्ड</string>
+    <string name="update_mobile">अपडेट मोबाइल नंबर</string>
+    <string name="token_shared_pref">tokenSharedPreference</string>
+    <string name="car_locked_alert">कार लॉक्ड अलर्ट</string>
+    <string name="refresh">Refresh</string>
+
+    <string-array name="alert_type">
+        <item>गलत पार्किंग</item>
+        <item>नाइट पार्किंग</item>
+        <item>कार लॉक्ड</item>
+    </string-array>
+    <string-array name="filter_type">
+        <item>सभी अलर्ट</item>
+        <item>गाड़ी</item>
+        <item>अलर्ट</item>
+    </string-array>
+    <string-array name="filter_type_car">
+        <item>सभी वाहन</item>
+        <item>रजिस्टर्ड</item>
+        <item>अतिथि</item>
+    </string-array>
+
+</resources>
